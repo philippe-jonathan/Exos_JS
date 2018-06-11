@@ -23,3 +23,6 @@ var age = prompt("donner votre age");
 	}else{
 		alert("Vous etes mineur!");
 	}
+
+
+	//jo
