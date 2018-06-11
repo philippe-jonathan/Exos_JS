@@ -1,7 +1,7 @@
 var maVar=3;
 alert(maVar);
 
-var nom="philippe";
-var prenom="jonathan";
+var nom="Philippe";
+var prenom="Jonathan";
 var ville="Aubiet";
-alert("Nom: " + nom + "Prenom: " + prenom + "Ville: " + ville);
+alert("Nom: " + nom + "\nPrenom: " + prenom + "\nVille: " + ville);
