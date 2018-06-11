@@ -31,4 +31,3 @@ var result = (nbr * nbr2);
 	alert(result);
 */
 
-//Exo 6
