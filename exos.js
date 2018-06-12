@@ -1,3 +1,4 @@
+
 //Exo 1
 /*
 
@@ -23,7 +24,7 @@ var Ville = prompt("Où habite tu?");
 
 //Exo 5
 var nbr = prompt("Donner un nombre a virgule.");
-var nbr2 = prompt("Donner un dexieme nombre a virgule.");
+var nbr2 = prompt("Donner un deuxieme nombre a virgule.");
 nbr = parseInt(nbr);
 nbr2 = parseInt(nbr2);
 	alert("Voici vos nombres: " + nbr + " et " + nbr2);

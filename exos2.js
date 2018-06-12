@@ -11,11 +11,12 @@ var result = (NBR % NBR2);
 
 //Exo 7
 /*
-var result = prompt("donne t'a pointure ") * 2 + 5 * 50 - prompt("donne t'on année de naissance") + 1766;
+var result = prompt("donner votre pointure ") * 2 + 5 * 50 - prompt("donner votre année de naissance") + 1766;
 	alert(result);
 */
 
 //Exo 8
+/*
 var age = prompt("donner votre age");
 
 	if (age>=18) { 
@@ -23,6 +24,6 @@ var age = prompt("donner votre age");
 	}else{
 		alert("Vous etes mineur!");
 	}
+*/
 
-
-	//jo
+	
