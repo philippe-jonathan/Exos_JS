@@ -1,6 +1,6 @@
 
 //Exo 1
-/*
+
 
 var maVar=3;
 	alert(maVar);
@@ -30,5 +30,5 @@ nbr2 = parseInt(nbr2);
 	alert("Voici vos nombres: " + nbr + " et " + nbr2);
 var result = (nbr * nbr2);
 	alert(result);
-*/
+
 
