@@ -14,3 +14,12 @@ function var2(){
 			alert(NBR);
 		}
 }
+
+function var3(){
+	var num = 100;
+	var num2 = 23;
+		for(num = 100; num>=10; num--){
+			var result = num * num2;
+			alert(result);
+		}
+}
