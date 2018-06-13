@@ -23,3 +23,57 @@ function var3(){
 			alert(result);
 		}
 }
+
+function var4(){
+	var NUM = 1;
+	while(NUM < 10){
+		alert(NUM);
+		NUM += NUM / 2;
+	}
+}
+
+function var5(){
+	var OK = 1;
+		while(OK < 15){
+			alert(OK);
+			OK++;
+
+			if(OK < 15){
+				alert("on y arrive presque");
+			} 
+		}
+}
+
+function var6(){
+	var OK = 20;
+		while(OK > 0){
+			alert(OK + " c'est presque bon");
+			OK--;
+ 			if (OK == 0) {
+ 				alert("!! BOOM !!");
+ 			}
+		}
+}
+
+function var7(){
+	var jojo = 1;
+	while(jojo < 100){
+		alert(jojo);
+		jojo += 15;
+
+		if(jojo < 100){
+			alert("On tien le bon bout")
+		}
+	}
+}
+
+function var8(){
+	var JOJO = 200;
+		while(JOJO > 0){
+			alert(JOJO + " Enfin !!!!");
+			JOJO-= 12;
+ 			if (JOJO == 0) {
+ 				alert("!! BOOM !!");
+ 			}
+		}
+}
