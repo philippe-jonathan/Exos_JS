@@ -1,46 +1,45 @@
 window.onload = function onclick(){
 	document.getElementById("demo1").addEventListener("click", function var1(){
 		var nbr = 0;
-			while(nbr < 10){
-				alert(nbr);
-				nbr++;
-			}
-}	);
+		while(nbr < 10){
+			alert(nbr);
+			nbr++;
+		}
+	});
 }
 
 window.onload = function onclick2(){
 	document.getElementById("demo2").addEventListener("click", function var2(){
 		var NBR = 0;
 		var NBR2 = 2;
-			for(NBR = 0; NBR<20; NBR++){
+		for(NBR = 0; NBR<20; NBR++){
 				var NBR = NBR * NBR2;
-					alert(NBR);
-			}
-	}	
-	)
+				alert(NBR);
+		}
+	})
 }
 
 window.onload = function onclick3(){
-document.getElementById("demo3").addEventListener("click", function var3(){
-	var num = 100;
-	var num2 = 23;
+	document.getElementById("demo3").addEventListener("click", function var3(){
+		var num = 100;
+		var num2 = 23;
 		for(num = 100; num>=10; num--){
 			var result = num * num2;
 			alert(result);
 		}
-})
+	})
 }
 
 
 
 window.onload = function onclick4(){
 	document.getElementById("demo4").addEventListener("click", function var4(){
-	var NUM = 1;
-	while(NUM < 10){
-		alert(NUM);
-		NUM += NUM / 2;
-	}
-})
+		var NUM = 1;
+		while(NUM < 10){
+			alert(NUM);
+			NUM += NUM / 2;
+		}
+	})
 }
 
 
